@@ -22,3 +22,20 @@ print("\nHello "+ input("What is your name?"))
 
 #Ejercicio 3 Sacar el numero de caracteres de un nombre que se pregunta
 print(len(input("What is your name? ")))
+
+#Variables:
+name = input("What is your name? ")
+print("Valor de la variable name: " + name)
+
+#Ejercicio 4: Intercambiar el valor de dos variables:
+a = input("a: ")
+b = input("b: ")
+print("\nAntes de intercambiar")
+print("a = "+ a)
+print("b = "+ b)
+print("\nDespues de intercambiar")
+aux = a
+a = b
+b = aux
+print("a = "+ a)
+print("b = "+ b)
