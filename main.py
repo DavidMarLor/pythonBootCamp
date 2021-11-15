@@ -19,3 +19,6 @@ input("What is your name?\n")
 
 #De esta forma primero se ejecuta el input y luego se incluye el nombre en el Hello
 print("\nHello "+ input("What is your name?"))
+
+#Ejercicio 3 Sacar el numero de caracteres de un nombre que se pregunta
+print(len(input("What is your name? ")))
