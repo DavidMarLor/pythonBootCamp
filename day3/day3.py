@@ -3,6 +3,7 @@
 # do this
 #else:
 #do this
+"""
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 
@@ -41,3 +42,23 @@ elif bmi > 30 and bmi < 35:
 else:
   message5 = f"Your BMI is {bmi} and you are clinically obese"
   print(message5)
+"""
+#Exercise 2.1
+"""
+Write a program that works out whether if a given year is a leap year. Every year that is 
+evenly divisible by 4, except every year that is divisible by 100 unless the year is also 
+divisible by 400
+"""
+year = int(input("Which year do you want to check?\n"))
+messageY = f"The year {year} is a leap year"
+messageN = f"The year {year} is not a leap year"
+if (year % 4) == 0:
+  if (year % 100) == 0:
+    if (year % 400) == 0:
+      print(messageY)
+    else:
+      print(messageN)
+  else:
+    print(messageY)
+else:
+  print(messageN)
