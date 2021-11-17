@@ -19,3 +19,25 @@ if (number % 2) == 0:
   print("Is a even number")
 else:
   print("Is a odd number")
+
+#Exercise 2
+#Calculate BMI = w/h
+height = input("Enter your height in m: ")
+weight = input("Enter your weight in kg: ")
+
+bmi = int(weight) / float(height) **2
+if bmi < 18.5:
+  message1 = f"Your BMI is {bmi} and you are underweight"
+  print(message1)
+elif bmi > 18.5 and bmi < 25:
+  message2 = f"Your BMI is {bmi} and you are normal weight"
+  print(message2)
+elif bmi > 25 and bmi < 30:
+  message3 = f"Your BMI is {bmi} and you are overweight"
+  print(message3)
+elif bmi > 30 and bmi < 35:
+  message4 = f"Your BMI is {bmi} and you are obese"
+  print(message4)
+else:
+  message5 = f"Your BMI is {bmi} and you are clinically obese"
+  print(message5)
