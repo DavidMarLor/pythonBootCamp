@@ -74,6 +74,7 @@ Pepperoni for medium/large pizza = $3
 
 Extra cheese for any pizza = $1
 """
+"""
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M or L \n")
 add_pepperoni = input("Do you want pepperoni? Y or N \n")
@@ -109,3 +110,33 @@ else:
       bill += 1
 
 print("Your final bill is: ", bill)
+"""
+print("Welcome to the Love Calculator!")
+name1 = input("What is your name? \n")
+name2 = input("What is their name? \n")
+
+#Cuantas veces se encuentra TRUE LOVE en los nombres.
+
+aux = name1.lower() + name2.lower()
+
+t = aux.count("t")
+r = aux.count("r")
+u = aux.count("u")
+e = aux.count("e")
+l = aux.count("l")
+o = aux.count("o")
+v = aux.count("v")
+e = aux.count("e")
+
+score = t + r + u + e + l + o + v + e
+
+message1 = f"Your score is {score}, you go together like coke and mentos."
+message2 = f"Your score is {score}, you are alright together."
+message3 = f"Your score is {score}."
+
+if score < 10 and score > 90:
+  print(message1)
+elif score > 40 and score < 50:
+  print(message2)
+else:
+  print(message3)
