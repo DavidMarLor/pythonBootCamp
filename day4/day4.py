@@ -1,4 +1,4 @@
-"""#Randomisation and Python List
+#Randomisation and Python List
 import random
 import my_module
 
@@ -106,7 +106,7 @@ map[vertical-1][horizontal-1] = "X"
 
 # 🚨 Don't change the code below 👇
 print(f"{row1}\n{row2}\n{row3}")
-"""
+
 #Exercise Final
 rock = '''
     _______
