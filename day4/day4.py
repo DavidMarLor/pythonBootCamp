@@ -107,3 +107,73 @@ map[vertical-1][horizontal-1] = "X"
 # 🚨 Don't change the code below 👇
 print(f"{row1}\n{row2}\n{row3}")
 """
+#Exercise Final
+rock = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+paper = '''
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+scissors = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+
+#Write your code below this line 👇
+import random
+
+random_integer = random.randint(0,2)
+robot = ["rock","paper","scissors"]
+human = input("Elige tu opcion: rock, paper o scissors \n")
+print("Tu has escogido: ")
+if human == "rock":
+  print(rock)
+elif human == "paper":
+  print(paper)
+else:
+  print(scissors)
+print("El ordenador ha elegido")
+if robot[random_integer] == "rock":
+  print(rock)
+elif robot[random_integer] == "paper":
+  print(paper)
+else:
+  print(scissors)
+
+if human == "rock":
+  if robot[random_integer] == "rock":
+    print("Empate")
+  elif robot[random_integer] == "paper":
+    print("Has perdido")
+  else:
+    print("Has ganado")
+elif human == "paper":
+  if robot[random_integer] == "paper":
+    print("Empate")
+  elif robot[random_integer] == "scissors":
+    print("Has perdido")
+  else:
+    print("Has ganado")
+else:
+  if robot[random_integer] == "scissors":
+    print("Empate")
+  elif robot[random_integer] == "rock":
+    print("Has perdido")
+  else:
+    print("Has ganado")
