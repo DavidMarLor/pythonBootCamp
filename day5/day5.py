@@ -30,10 +30,24 @@ for i in student_scores:
   if aux < i:
     aux = i
 print(aux);
-"""
 #for number in range (a,b):
 #Write your code below this row 👇
 aux = 0
 for number in range(2,101,2):
   aux += number
 print(aux)
+"""
+#Write your code below this row 👇
+for number in range(1,101):
+  if number % 3 == 0:
+    if number % 5 == 0:
+      print("FizzBuzz")
+    else:
+      print("Fizz") 
+  elif number % 5 == 0:
+    if number % 3 == 0:
+      print("FizzBuzz")
+    else:
+      print("Buzz")
+  else:
+    print(number)
