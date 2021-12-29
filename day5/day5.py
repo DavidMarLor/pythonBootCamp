@@ -18,7 +18,6 @@ for i in student_heights:
   aux = aux + i
   heights = aux/(len(student_heights))
 print("El peso medio es: ",heights)
-"""
 # 🚨 Don't change the code below 👇
 student_scores = input("Input a list of student scores ").split()
 for n in range(0, len(student_scores)):
@@ -31,3 +30,10 @@ for i in student_scores:
   if aux < i:
     aux = i
 print(aux);
+"""
+#for number in range (a,b):
+#Write your code below this row 👇
+aux = 0
+for number in range(2,101,2):
+  aux += number
+print(aux)
