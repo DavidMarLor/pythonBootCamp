@@ -73,3 +73,33 @@ Indice:
   - **Day 68 - Advanced -** Authentication with Flask
   - **Day 69 - Advanced -** Blog Capstone Project Part 4 - Adding User
   - **Day 70 - Advanced -** Deploying Your Web Application with Heroku
+  - **Day 71 - Advanced -** Data Exploration with Pandas: College Major vs Your Salary
+  - **Day 72 - Advanced -** Data Visualisation with Matplotlib: Programming Languages
+  - **Day 73 - Advanced -** Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+  - **Day 74 - Advanced -** Google Trends Data: Resampling and Visualising Time Series
+  - **Day 75 - Advanced -** Beautiful Plotly Charts & Analysing the Android App Store
+  - **Day 76 - Advanced -** Computation with NumPy and N-Dimensional Arrays
+  - **Day 77 - Advanced -** Linear Regression and Data Visualisation with Seaborn
+  - **Day 78 - Advanced -** Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+  - **Day 79 - Advanced -** The Tragic Discovery of Handwashing: t-Test & Distributions
+  - **Day 80 - Advanced -** Capstone Project - Predict House Prices
+  - **Day 81 - Professional Portfolio Project -** Python Scripting
+  - **Day 82 - Professional Portfolio Project -** Python Web Development
+  - **Day 83 - Professional Portfolio Project -** Python Scripting
+  - **Day 84 - Professional Portfolio Project -** GUI
+  - **Day 85 - Professional Portfolio Project -** GUI
+  - **Day 86 - Professional Portfolio Project -** Game
+  - **Day 87 - Professional Portfolio Project -** Web Development
+  - **Day 88 - Professional Portfolio Project -** Web Development
+  - **Day 89 - Professional Portfolio Project -** GUI Desktop App
+  - **Day 90 - Professional Portfolio Project -** HTTP Requests & APIs
+  - **Day 91 - Professional Portfolio Project -** Image Processing & Data Science
+  - **Day 92 - Professional Portfolio Project -** Web Scraping
+  - **Day 93 - Professional Portfolio Project -** GUI Automation
+  - **Day 94 - Professional Portfolio Project -** Game
+  - **Day 95 - Professional Portfolio Project -** Http Requests & APIs
+  - **Day 96 - Professional Portfolio Project -** Web Development
+  - **Day 97 - Professional Portfolio Project -** Python Automation
+  - **Day 98 - Professional Portfolio Project -** Data Science
+  - **Day 99 - Professional Portfolio Project -** Data Science
+  - **Day 100 - Professional Portfolio Project -** Data Science
