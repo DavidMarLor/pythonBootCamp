@@ -1,4 +1,4 @@
-# pythonBootCamp
+# PythonBootCamp
 
 Repositorio con los ejercicios diarios del curso de Udemy: https://www.udemy.com/course/100-days-of-code/
 
@@ -17,3 +17,19 @@ Indice:
   12. Day 12 - Beginner - Scope & Number Guessing Game
   13. Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
   14. Day 14 - Beginner - Higher Lower Game Project
+  15. Day 15 - Intermediate - Local Development Enviroment Setup & the Coffe Machine
+  16. Day 16 - Intermediate - Object Oriented Programming (OOP)
+  17. Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
+  18. Day 18 - Intermediate - Turtle & The Grafical User Interface (GUI)
+  19. Day 19 - Intermediate - Instances, State and Higher Order Functions
+  20. Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+  21. Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
+  22. Day 22 - Intermediate - Build Pong: The Famous Arcade Game
+  23. Day 23 - Intermediate - The Turlte Crossing Capstone Project
+  24. Day 24 - Intermediate - Files, Directories and Paths
+  25. Day 25 - Intermediate - Working with CSV Data and the Pandas Library
+  26. Day 26 - Intermediate - List Comprehesion and NATO Alphabet
+  27. Day 27 - Intermediate - Tkinter, ***args**, ****kwargs** and Creating GUI Programs
+  28. Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+  29. Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter
+  30. Day 30 - Intermediate - Errors, Exceptions and JSON Data: Improving the Password
