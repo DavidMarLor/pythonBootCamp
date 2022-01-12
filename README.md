@@ -3,33 +3,73 @@
 Repositorio con los ejercicios diarios del curso de Udemy: https://www.udemy.com/course/100-days-of-code/
 
 Indice:
-  **Day 1 - Beginner -** Working with Variables in Python to Manage Data
-  **Day 2 - Beginner -** Understanding Data Types and How to Manipulate Strings
-  **Day 3 - Beginner -** Control Flow and Logical Operators
-  **Day 4 - Beginner -** Randomisation and Python List
-  **Day 5 - Beginner -** Python Loops
-  **Day 6 - Beginner -** Python Functions & Karel
-  **Day 7 - Beginner -** Hangman
-  **Day 8 - Beginner -** Function Parameters & Caesar Cipher
-  **Day 9 - Beginner -** Dictionaries, Nesting and the Secret Auction
-  **Day 10 - Beginner -** Functions with Outputs
-  **Day 11 - Beginner -** The Blackjack Capstone Project
-  **Day 12 - Beginner -** Scope & Number Guessing Game
-  **Day 13 - Beginner -** Debugging: How to Find and Fix Errors in your Code
-  **Day 14 - Beginner -** Higher Lower Game Project
-  **Day 15 - Intermediate -** Local Development Enviroment Setup & the Coffe Machine
-  **Day 16 - Intermediate -** Object Oriented Programming (OOP)
-  **Day 17 - Intermediate -** The Quiz Project & the Benefits of OOP
-  **Day 18 - Intermediate -** Turtle & The Grafical User Interface (GUI)
-  **Day 19 - Intermediate -** Instances, State and Higher Order Functions
-  **Day 20 - Intermediate -** Build the Snake Game Part 1: Animation & Coordinates
-  **Day 21 - Intermediate -** Build the Snake Game Part 2: Inheritance & List Slicing
-  **Day 22 - Intermediate -** Build Pong: The Famous Arcade Game
-  **Day 23 - Intermediate -** The Turlte Crossing Capstone Project
-  **Day 24 - Intermediate -** Files, Directories and Paths
-  **Day 25 - Intermediate -** Working with CSV Data and the Pandas Library
-  **Day 26 - Intermediate -** List Comprehesion and NATO Alphabet
-  **Day 27 - Intermediate -** Tkinter, ***args**, ****kwargs** and Creating GUI Programs
-  **Day 28 - Intermediate -** Tkinter, Dynamic Typing and the Pomodoro GUI Application
-  **Day 29 - Intermediate -** Building a Password Manager GUI App with Tkinter
-  **Day 30 - Intermediate -** Errors, Exceptions and JSON Data: Improving the Password
+  - **Day 1 - Beginner -** Working with Variables in Python to Manage Data
+  - **Day 2 - Beginner -** Understanding Data Types and How to Manipulate Strings
+  - **Day 3 - Beginner -** Control Flow and Logical Operators
+  - **Day 4 - Beginner -** Randomisation and Python List
+  - **Day 5 - Beginner -** Python Loops
+  - **Day 6 - Beginner -** Python Functions & Karel
+  - **Day 7 - Beginner -** Hangman
+  - **Day 8 - Beginner -** Function Parameters & Caesar Cipher
+  - **Day 9 - Beginner -** Dictionaries, Nesting and the Secret Auction
+  - **Day 10 - Beginner -** Functions with Outputs
+  - **Day 11 - Beginner -** The Blackjack Capstone Project
+  - **Day 12 - Beginner -** Scope & Number Guessing Game
+  - **Day 13 - Beginner -** Debugging: How to Find and Fix Errors in your Code
+  - **Day 14 - Beginner -** Higher Lower Game Project
+  - **Day 15 - Intermediate -** Local Development Enviroment Setup & the Coffe Machine
+  - **Day 16 - Intermediate -** Object Oriented Programming (OOP)
+  - **Day 17 - Intermediate -** The Quiz Project & the Benefits of OOP
+  - **Day 18 - Intermediate -** Turtle & The Grafical User Interface (GUI)
+  - **Day 19 - Intermediate -** Instances, State and Higher Order Functions
+  - **Day 20 - Intermediate -** Build the Snake Game Part 1: Animation & Coordinates
+  - **Day 21 - Intermediate -** Build the Snake Game Part 2: Inheritance & List Slicing
+  - **Day 22 - Intermediate -** Build Pong: The Famous Arcade Game
+  - **Day 23 - Intermediate -** The Turlte Crossing Capstone Project
+  - **Day 24 - Intermediate -** Files, Directories and Paths
+  - **Day 25 - Intermediate -** Working with CSV Data and the Pandas Library
+  - **Day 26 - Intermediate -** List Comprehesion and NATO Alphabet
+  - **Day 27 - Intermediate -** Tkinter, ***args**, ****kwargs** and Creating GUI Programs
+  - **Day 28 - Intermediate -** Tkinter, Dynamic Typing and the Pomodoro GUI Application
+  - **Day 29 - Intermediate -** Building a Password Manager GUI App with Tkinter
+  - **Day 30 - Intermediate -** Errors, Exceptions and JSON Data: Improving the Password
+  - **Day 31 - Intermediate -** Flash Card App Capstone Project
+  - **Day 32 - Intermediate -** Send Email **(smtplib)** & Manage Dates **(datetime)**
+  - **Day 33 - Intermediate -** API Endpoints & API Parameters - ISS Overhead Notifier
+  - **Day 34 - Intermediate -** API Practice - Creating A GUI Quiz App
+  - **Day 35 - Intermediate -** Keys, Authentication & Environment Variables: Send SMS
+  - **Day 36 - Intermediate -** Stock Trading News Alert Project
+  - **Day 37 - Intermediate -** Habit Tracking Project: API POst Requests & Headers
+  - **Day 38 - Intermediate -** Workout Tracking Using Google Sheets
+  - **Day 39 - Intermediate -** Capstone Part 1: Flight Deal Finder
+  - **Day 40 - Intermediate -** Capstone Part 2: Flight Club
+  - **Day 41 - Intermediate -** Web Foundation - Introduction to HTML
+  - **Day 42 - Intermediate -** Web Foundation - Intermediate HTML
+  - **Day 43 - Intermediate -** Web Foundation - Introduction to CSS
+  - **Day 44 - Intermediate -** Web Foundation - Intermediate CSS
+  - **Day 45 - Intermediate -** Web Scraping with Beautiful Soup
+  - **Day 46 - Intermediate -** Create a Spotify Playlist using the Musical Time MAchine
+  - **Day 47 - Intermediate -** Create an Automated Amazon Price Tracker
+  - **Day 48 - Intermediate -** Selenum Webdriver Browser and Game Playing Bot
+  - **Day 49 - Intermediate -** Automating Job Applications on Linkedin
+  - **Day 50 - Intermediate -** Auto Tinder Swiping Bot
+  - **Day 51 - Intermediate -** Internet Speed Twitter Complaint Bot
+  - **Day 52 - Intermediate -** Instragam Follower Bot
+  - **Day 53 - Intermediate -** Web Scraping Capstone - Data Entry Job Automation
+  - **Day 54 - Intermediate -** Introduction to Web Development with Flask
+  - **Day 55 - Intermediate -** HTML & URL Parsing in Flask and the Higher Lower Game
+  - **Day 56 - Intermediate -** Rendering HTML/Static files and Using Website Templates
+  - **Day 57 - Intermediate -** Templating with Jinja in Flask Applications
+  - **Day 58 - Intermediate -** Web Foundation Bootstrap
+  - **Day 59 - Advanced -** Blog Capstone Project Part 2 - Adding Styling
+  - **Day 60 - Advanced -** Make POST Request with Flask and HTML Forms
+  - **Day 61 - Advanced -** Building Advanced Forms with Flask- WTForms
+  - **Day 62 - Advanced -** Flask, WTForms, Bootstrap and CSV - Coffe & Wifi Project
+  - **Day 63 - Advanced -** Databases and with SQLite and SQLAlchemy
+  - **Day 64 - Advanced -** My Top 10 Moies Website
+  - **Day 65 - Advanced -** Web Design School - How to Create a Website that People will Love
+  - **Day 66 - Advanced -** Building Your Own APO with RESTful Routing
+  - **Day 67 - Advanced -** Blog Capstone Project Part 3 - RESTful Routing
+  - **Day 68 - Advanced -** Authentication with Flask
+  - **Day 69 - Advanced -** Blog Capstone Project Part 4 - Adding User
+  - **Day 70 - Advanced -** Deploying Your Web Application with Heroku
