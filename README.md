@@ -3,7 +3,7 @@
 Repositorio con los ejercicios diarios del curso de Udemy: https://www.udemy.com/course/100-days-of-code/
 
 Indice:
-  - **Day 1 - Beginner -** Working with Variables in Python to Manage Data
+  - **Day 1 - Beginner -** Working with Variables in Python to Manage Data[:notebook_with_decorative_cover:	](https://github.com/DavidMarLor/pythonBootCamp/blob/main/day01/)
   - **Day 2 - Beginner -** Understanding Data Types and How to Manipulate Strings
   - **Day 3 - Beginner -** Control Flow and Logical Operators
   - **Day 4 - Beginner -** Randomisation and Python List
