@@ -1,0 +1,34 @@
+APIs
+Que es una api
+
+    Son un conjunto de comandos, funciones, protocolos y objetos
+    que los programadores pueden usar para crear software
+    o interactuar con sistemas externos
+
+Como se usa
+
+    Tu programa --------> API --------> External System
+                 request        response
+
+
+    Ejemplo:
+
+         Cliente ---------> Menu de restaurante --------> Cocina de restaurante
+
+            Tu pides del menu ---------------> Lo interpreta
+
+                Te devuelve el producto <------------------
+
+Api endpoints: Localizacion, nos sirve para saber donde se almacenan los datos. Usualmente es un url
+Ejemplo con coinbase: api.coinbase.com
+
+Respuestas:
+
+    1xx: espera, algo pasa
+    2xx: funciona
+    3xx: no tienes permisos (you should no pass)
+    4xx: tu la cagas
+    5xx: el servidor la caga
+
+API parameters
+    Inputs que se le dan al endpoint para conseguir un output
