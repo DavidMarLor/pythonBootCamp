@@ -1,0 +1,13 @@
+SMTP
+Para que funcione necesitamos saber el smtp del proveedor de correos. Para el caso de gmail es smtp.gmail.com
+Hay que bajar la seguridad para que google no lo bloquee -> crearse correo de pruebas para trastear
+Deshabilitar el captcha para poder automatizar y añadir lo siguiente:
+smtplib.SMTP("smtp.gmail.com", port=587) el puerto se puede buscar en google junto a la info del smtp
+
+Todos los correo tiene un to, un copia, un subject y un cuerpo para el correo.
+
+Se envia correo a los servidores de gmail en nuestro caso y este lo envia al del destinatario para que luego
+lo envie a su correo.
+
+dpythonbootcamp
+
