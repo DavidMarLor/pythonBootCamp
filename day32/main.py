@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import random
 
-my_email = "dpythonbootcamp@gmail.com"
-password = "5V7DP#%9kDz9%*RBfG&7"
+my_email = ""
+password = ""
 
 quotes = []
 
